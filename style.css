@@ -20,7 +20,7 @@ section.computer {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    background: darkgrey;
+    background: #ffdbdb;
 }
 .line {
     display: -webkit-box;
